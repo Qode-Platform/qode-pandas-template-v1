@@ -1,0 +1,6 @@
+order_id,customer,region,amount,ordered_at
+1,acme,emea,120.50,2026-01-14
+2,globex,amer,0.00,2026-01-20
+3,acme,emea,80.00,2026-02-03
+4,initech,apac,240.75,2026-02-11
+5,globex,amer,55.25,2026-02-28
